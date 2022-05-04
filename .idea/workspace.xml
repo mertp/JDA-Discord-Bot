@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d585d9a-8547-4009-aa5a-6db8072b7720" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Commands/Commands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Commands/EightballCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Commands/FilterToggle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Commands/ImageCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Commands/InfoCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Commands/MuteCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Commands/PollCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Commands/RockPaperCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Commands/martı.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/bot/test/Bot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/bot/test/BotTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/bot/test/events/Filterr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/bot/test/events/HelloEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Commands/Commands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Commands/EightballCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Commands/FilterToggle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Commands/ImageCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Commands/InfoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Commands/MuteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Commands/RockPaperCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Commands/martı.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/test/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/test/BotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/test/events/Filterr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bot/test/events/HelloEvent.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28hWutIexx2jFDYX2l06Zw1kt2x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d585d9a-8547-4009-aa5a-6db8072b7720" name="Changes" comment="" />
+      <created>1651669526592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651669526592</updated>
+      <workItem from="1651669529680" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
